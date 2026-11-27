@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these skills, or the method they carry, please cite them as below."
+type: software
+title: "SAFA Foresight Skills"
+abstract: "Nine Claude skills that carry the participatory foresight method of Ariella Helfgott and SA Futures Agency: horizon scanning, critical uncertainties, end states, a compatibility matrix, morphological analysis, scenario families, scenario set selection, scenario building, a shared vision and first priorities. The method is the authors' own work, shared for public benefit."
+authors:
+  - family-names: Helfgott
+    given-names: Ariella
+    affiliation: SA Futures Agency
+  - family-names: Adameitis
+    given-names: Stavroula
+    affiliation: SA Futures Agency
+version: 1.0.0
+date-released: 2026-11-27
+repository-code: "https://github.com/djariella/safa-foresight-skills"
+url: "https://github.com/djariella/safa-foresight-skills"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+keywords:
+  - foresight
+  - scenarios
+  - participatory methods
+  - morphological analysis
+  - visioning
+  - Claude skills
